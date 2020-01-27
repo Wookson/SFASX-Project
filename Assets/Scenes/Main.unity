@@ -3059,7 +3059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AccessibleTiles:
-  - {fileID: 5225831561217036612, guid: 068b00b1b45e14e49a33d5ab4dc954a2, type: 3}
+  - {fileID: 9039366444427337567, guid: b4eff196d779c3d45ab0265d83f089be, type: 3}
   - {fileID: -5727240968106128960, guid: f5359cef68dfe584f8a9fdc38653a13b, type: 3}
   HighlightedTiles:
   - {fileID: 7029257276587363495, guid: d1a1274c39f087249b1460330f056c71, type: 3}
